@@ -1,3 +1,3 @@
 # demo
-this is demo <br/> <hr/>
+this is demo <br/>
 sep 2024
